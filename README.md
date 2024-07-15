@@ -1,7 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hirusha Rashmika</h1>
 <h2 align="center">A passionate fullstack developer from Sri Lanka.</h2>
 <h3 align="center">Information Technology Undergraduate @SLIIT.</h3>
-<h3 align="center">Information Technology Undergraduate @SLIIT.</h3>
+
 
 
 
