@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hirusha Rashmika</h1>
 <h2 align="center">A passionate fullstack developer from Sri Lanka.</h2>
 <h3 align="center">Information Technology Undergraduate @SLIIT.</h3>
+<h3 align="center">Information Technology Undergraduate @SLIIT.</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22283344&label=Profile%20views&color=0e75b6&style=plastic" alt="it22283344" /> </p>
