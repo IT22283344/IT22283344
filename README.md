@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://media.istockphoto.com/id/1136829806/vector/website-app-design-development-technology-software-code-programming-ui-ux-concept.jpg?s=612x612&w=0&k=20&c=wB6hinX448B_fLDEGKubgkeVyX6ijVLQQ_Gz_kSqQUg=))
+[![MasterHead][https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://media.istockphoto.com/id/1136829806/vector/website-app-design-development-technology-software-code-programming-ui-ux-concept.jpg?s=612x612&w=0&k=20&c=wB6hinX448B_fLDEGKubgkeVyX6ijVLQQ_Gz_kSqQUg=)
 <h1 align="center">Hi 👋, I'm Hirusha Rashmika</h1>
 <h2 align="center">A passionate fullstack developer from Sri Lanka.</h2>
 <h3 align="center">Information Technology Undergraduate @SLIIT.</h3>
