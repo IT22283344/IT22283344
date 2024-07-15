@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hirusha Rashmika</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka.</h3>
-<img align="right" alt="Image" width="400" src="https://t4.ftcdn.net/jpg/06/28/15/53/240_F_628155363_0NuasqXHZkjC13IFuTsrDHCFPeJo6aQr.jpg"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirusharashmika&label=Profile%20views&color=0e75b6&style=flat" alt="hirusharashmika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirusharashmika" alt="hirusharashmika" /></a> </p>
@@ -11,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hirusha-rashmika-281084296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirusharashmika" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hirusharashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirusharashmika" height="30" width="40" /></a>
+<a href="https://fb.com/hirusharashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirusharashmika" height="30" width="40" /></a>
+<a href="https://instagram.com/hirusha_rash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirusha_rash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirusharashmika&show_icons=true&locale=en&layout=compact" alt="hirusharashmika" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirusharashmika&show_icons=true&locale=en" alt="hirusharashmika" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirusharashmika&show_icons=true&theme=dark&locale=en" alt="hirusharashmika" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirusharashmika&" alt="hirusharashmika" /></p>
