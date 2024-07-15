@@ -1,4 +1,3 @@
-[![MasterHead][https://t3.ftcdn.net/jpg/07/00/66/32/240_F_700663280_vmE4aHL2TCzDxEBv1lbFghPweBbx6I0L.jpg)]
 <h1 align="center">Hi 👋, I'm Hirusha Rashmika</h1>
 <h2 align="center">A passionate fullstack developer from Sri Lanka.</h2>
 <h3 align="center">Information Technology Undergraduate @SLIIT.</h3>
