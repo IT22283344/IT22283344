@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22283344&label=Profile%20views&color=0e75b6&style=plastic" alt="it22283344" /> </p>
 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **MERN Stack & React Native**
 
-- 🌱 I’m currently learning **C#/.Net/Flutter**
+- 🌱 I’m currently learning **.Net/Flutter/Deep Learning/Cloud Solutions**
 
-- 💬 Ask me about **MERN Stack/Java/C/C++/Kotlin**
+- 💬 Ask me about **MERN Stack/Java/C/C++/Kotlin/React Native**
 
 - 📫 How to reach me **hirusharashmika69@gmail.com**
 
