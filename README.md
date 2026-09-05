@@ -39,9 +39,9 @@ I enjoy working across the entire development process — from designing interfa
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  🚀 Building     Full-Stack Web & Mobile Applications        │
-│  ⚡ Focus         Performance · Scalability · Clean Code      │
-│  🧠 Learning      Cloud · .NET · Flutter · Deep Learning     │
+│  🚀 Building     Full-Stack Web & Mobile Applications       │
+│  ⚡ Focus         Performance · Scalability · Clean Code    │
+│  🧠 Learning      Cloud · .NET · Flutter · Deep Learnin     │
 │  💡 Interested    Product Development & New Technologies    │
 └──────────────────────────────────────────────────────────────┘
 ```
