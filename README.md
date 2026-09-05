@@ -6,26 +6,33 @@
 
 **Building scalable applications, exploring new technologies, and turning ideas into real products.**
 
-<p>
-  <a href="https://github.com/it22283344">
-    <img src="https://komarev.com/ghpvc/?username=it22283344&label=Profile%20Views&color=6366f1&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/it22283344?tab=followers">
-    <img src="https://img.shields.io/github/followers/it22283344?label=Followers&style=for-the-badge&color=6366f1" />
-  </a>
-</p>
+<br>
 
-<p>
-  <a href="https://linkedin.com/in/hirusharashmika">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hirusharashmika69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/hirusha_rash">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/it22283344">
+<img src="https://komarev.com/ghpvc/?username=it22283344&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/it22283344?tab=followers">
+<img src="https://img.shields.io/github/followers/it22283344?label=FOLLOWERS&style=for-the-badge&color=6366f1" />
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/hirusharashmika">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hirusharashmika69@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/hirusha_rash">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineer;Web+%26+Mobile+Developer;Backend+%26+API+Developer;Always+Learning+Something+New" />
 
 </div>
 
@@ -35,67 +42,99 @@
 
 I'm a Software Engineer and Information Technology undergraduate at **SLIIT**, passionate about building modern web and mobile applications.
 
-I enjoy working across the entire development process — from designing interfaces and building APIs to database architecture, deployment, and optimization.
+I enjoy working across the entire development process — from designing interfaces and building APIs to database architecture, deployment, and performance optimization.
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  🚀 Building     Full-Stack Web & Mobile Applications       │
-│  ⚡ Focus         Performance · Scalability · Clean Code    │
-│  🧠 Learning      Cloud · .NET · Flutter · Deep Learnin     │
-│  💡 Interested    Product Development & New Technologies    │
+│                                                              │
+│  🚀  Building       Full-Stack Web & Mobile Applications     │
+│                                                              │
+│  ⚡  Focus           Performance · Scalability · Clean Code  │
+│                                                              │
+│  🧠  Learning        Cloud · .NET · Flutter · Deep Learning  │
+│                                                              │
+│  💡  Interested      Product Development & New Technology   │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
+<details>
+<summary><b>✨ More About Me</b></summary>
+
+<br>
+
+- 🎓 Information Technology Undergraduate at **SLIIT**
+- 💻 Interested in full-stack software development
+- 🌐 Building modern web applications
+- 📱 Developing mobile applications
+- ⚙️ Interested in backend architecture and APIs
+- ☁️ Exploring cloud technologies
+- 🧠 Continuously learning new technologies
+- 🚀 Interested in building real-world products
+
+</details>
+
 ---
 
-## ⚡ What I Work With
+# ⚡ What I Work With
 
 <div align="center">
 
-### Frontend
+### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,svelte,tailwind,bootstrap,html,css&perline=8" />
 
-### Backend
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,php,dotnet&perline=8" />
+### ⚙️ Backend
 
-### Mobile
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,java,php&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=react,flutter,kotlin,android&perline=8" />
+<br><br>
 
-### Languages
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=react,flutter,kotlin,android&perline=4" />
+
+<br><br>
+
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,javascript,typescript,python,php&perline=9" />
 
-### Database & Cloud
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,aws,redis&perline=8" />
+### 🗄️ Database & Cloud
 
-### Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,aws,redis&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,vscode&perline=8" />
+<br><br>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,linux&perline=7" />
 
 </div>
 
 ---
 
-## 🛠️ My Development Stack
+# 🛠️ Development Stack
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌐 Web Development
 
-* React
-* Next.js
-* Node.js
-* Express.js
-* NestJS
-* Tailwind CSS
-* Redux
-* Svelte
+- React
+- Next.js
+- Redux
+- Svelte
+- Tailwind CSS
+- Bootstrap
+- HTML5
+- CSS3
 
 </td>
 
@@ -103,61 +142,63 @@ I enjoy working across the entire development process — from designing interfa
 
 ### 📱 Application Development
 
-* React Native
-* Flutter
-* Android
-* Kotlin
-* Java
-* C#
+- React Native
+- Flutter
+- Android
+- Kotlin
+- Java
+- C#
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### ☁️ Backend & Infrastructure
+### ⚙️ Backend & APIs
 
-* REST APIs
-* MongoDB
-* MySQL
-* Firebase
-* AWS
-* Docker
-* Redis
+- Node.js
+- Express.js
+- NestJS
+- .NET
+- REST APIs
+- Real-Time Communication
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔧 Development Tools
+### ☁️ Infrastructure
 
-* Git & GitHub
-* Postman
-* Figma
-* VS Code
-* Linux
-* CI/CD
+- MongoDB
+- MySQL
+- Redis
+- Firebase
+- AWS
+- Docker
+- Linux
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## 🚀 Currently Building
+# 🚀 Currently Building
 
 <div align="center">
 
-<a href="https://github.com/it22283344">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,typescript,mongodb,docker&perline=7" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=it22283344&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" width="95%" />
+<br><br>
 
-</a>
+### Building · Learning · Improving
 
 </div>
-
-### 🔥 Current Focus
 
 ```text
 ▸ Full-Stack Development
@@ -171,35 +212,157 @@ I enjoy working across the entire development process — from designing interfa
 
 ---
 
-## 💻 Featured Projects
+# 🔥 Current Focus
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/it22283344">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=it22283344&repo=YOUR_PROJECT_1&theme=github_dark&hide_border=true" />
+### 💻 Development
 
-</a>
+```text
+01  Full-Stack Development
+02  Next.js
+03  NestJS
+04  React Native
+05  REST APIs
+06  Database Architecture
+```
 
-<a href="https://github.com/it22283344">
+</td>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=it22283344&repo=YOUR_PROJECT_2&theme=github_dark&hide_border=true" />
+<td width="50%" valign="top">
 
-</a>
+### 🚀 Engineering
 
-</div>
+```text
+01  Scalable Architecture
+02  Performance
+03  Real-Time Systems
+04  Cloud Infrastructure
+05  DevOps
+06  Clean Code
+```
 
-> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your best repositories.
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# 💻 Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=it22283344&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22283344&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+<td width="50%" valign="top">
+
+## 🚀 Full-Stack Applications
+
+Building modern full-stack applications with scalable backend architecture and responsive interfaces.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+
+<br><br>
+
+<a href="https://github.com/it22283344?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📱 Mobile Applications
+
+Developing mobile applications with a focus on performance, usability and smooth user experiences.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,flutter,kotlin" />
+
+<br><br>
+
+<a href="https://github.com/it22283344?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚙️ Backend Systems
+
+Designing APIs and backend services with scalability, maintainability and performance in mind.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,redis" />
+
+<br><br>
+
+<a href="https://github.com/it22283344?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ☁️ Cloud & DevOps
+
+Exploring cloud infrastructure, containerization and modern deployment workflows.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
+
+<br><br>
+
+<a href="https://github.com/it22283344?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/it22283344">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=it22283344&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"
+width="48%"
+/>
+
+</a>
+
+<a href="https://github.com/it22283344">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22283344&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+width="40%"
+/>
+
+</a>
 
 </div>
 
@@ -207,41 +370,147 @@ I enjoy working across the entire development process — from designing interfa
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=it22283344&theme=github-dark-blue&hide_border=true" width="70%" />
+<a href="https://github.com/it22283344">
+
+<img
+src="https://streak-stats.demolab.com/?user=it22283344&theme=github-dark-blue&hide_border=true"
+width="65%"
+/>
+
+</a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/it22283344/it22283344/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 ```text
-☑ Build production-ready applications
-☑ Improve backend architecture skills
-☑ Explore cloud infrastructure
-☑ Learn .NET & Flutter
-☐ Dive deeper into Deep Learning
-☐ Contribute to Open Source
-☐ Build and launch my own products
+✅ Build production-ready applications
+✅ Improve backend architecture skills
+✅ Explore cloud infrastructure
+✅ Learn .NET & Flutter
+
+🔲 Dive deeper into Deep Learning
+🔲 Contribute to Open Source
+🔲 Build and launch personal products
+🔲 Improve System Design skills
+🔲 Work on larger-scale applications
 ```
 
 ---
 
-## 💬 Let's Connect
+# 📚 Currently Learning
 
 <div align="center">
 
-I'm always interested in interesting projects, collaboration, and learning from other developers.
+<img src="https://skillicons.dev/icons?i=dotnet,flutter,aws,docker,python&perline=5" />
+
+<br><br>
+
+</div>
+
+<table>
+<tr>
+<th>Technology</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td>🔷 .NET</td>
+<td>Backend Development</td>
+</tr>
+
+<tr>
+<td>💙 Flutter</td>
+<td>Cross-Platform Mobile Development</td>
+</tr>
+
+<tr>
+<td>☁️ AWS</td>
+<td>Cloud Infrastructure</td>
+</tr>
+
+<tr>
+<td>🐳 Docker</td>
+<td>Containerization & Deployment</td>
+</tr>
+
+<tr>
+<td>🐍 Python</td>
+<td>Deep Learning</td>
+</tr>
+
+<tr>
+<td>🧠 Deep Learning</td>
+<td>Machine Learning Fundamentals</td>
+</tr>
+
+</table>
+
+---
+
+# 💡 Development Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Learn**
+
+Keep learning.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Build**
+
+Turn ideas into software.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐛
+
+**Debug**
+
+Solve problems.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Improve**
+
+Keep getting better.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+### Have an idea or interesting project?
+
+I'm always interested in connecting, collaborating and discussing technology.
 
 <br>
 
@@ -257,16 +526,22 @@ I'm always interested in interesting projects, collaboration, and learning from 
 <img src="https://img.shields.io/badge/GitHub-it22283344-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://instagram.com/hirusha_rash">
+<img src="https://img.shields.io/badge/Instagram-hirusha__rash-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ Build. Break. Learn. Repeat.
+<br>
 
-**Thanks for visiting my profile!**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Build.+Break.+Learn.+Repeat.;Thanks+for+visiting+my+profile!;Let's+build+something+great." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
 
 </div>
